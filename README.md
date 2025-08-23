@@ -16,27 +16,27 @@ Neste momento, estou praticandos estudos sobre:
 * Inglês
 
 ## Minhas Skills
-<section>
-          <div>
-                    <h3> Linguagens</h3>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "5%" height = "5%" />&nbsp;
-          </div>
-          <div>
-                    <h3> Front End</h3>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "5%" height = "5%" />&nbsp;
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "5%" height = "5%" />&nbsp;
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "5%" height = "5%" />&nbsp;  
-          </div>
-          <div>
-                    <h3>Ferramentas</h3>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width = "5%" height = "5%" />&nbsp;
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = "5%" height = "5%" />&nbsp;
-                    <img src="github-mark-white.png" width = "5%" height = "5%" />&nbsp;
-          </div>
-          <div>
-                    <h3>Database</h3>
-                    <img src="mysql.png"  width = "5%" height = "5%" />&nbsp;
-          </div>
+<section class="skills-container">
+    <div class="skill-group">
+        <h3>Linguagens</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    </div>
+    <div class="skill-group">
+        <h3>Front End</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
+    </div>
+    <div class="skill-group">
+        <h3>Ferramentas</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        <img src="github-mark-white.png" />
+    </div>
+    <div class="skill-group">
+        <h3>Database</h3>
+        <img src="mysql.png" />
+    </div>
 </section>
 
 
