@@ -31,36 +31,12 @@ Neste momento, estou praticandos estudos sobre:
           <h3>Ferramentas</h3>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width = "5%" height = "5%" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = "5%" height = "5%" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "5%" height = "5%" />
-          
+          <img src="github-mark-white.png" width = "5%" height = "5%" />
+</div>
+<div>
+          <h3>Database</h3>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width = "5%" height = "5%" />
 </div>
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width = "5%" height = "5%" />
-
-
-
-
-          
-
-
-
-
-
-
-
-<!--
-**Marsyelo-Enrykie/Marsyelo-Enrykie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
