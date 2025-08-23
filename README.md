@@ -21,6 +21,12 @@ Neste momento, estou praticandos estudos sobre:
 * Inglês
 
 ---
+<div>
+  <a href="https://github.com/Marsyelo-Enrykie"> Meu github</a>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Marsyelo-Enrykie&theme=react&show_icons=true&hide_border=false&count_private=false" alt = "Marsyelo-Enrykie's Stats"/>
+</div>
+
+---
 
 ## Minhas Skills
 <div>
